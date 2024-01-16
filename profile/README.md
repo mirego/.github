@@ -1,4 +1,4 @@
-[![Mirego banner containing various inside jokes and references from our awesome culture](https://user-images.githubusercontent.com/11348/165750845-5df00a31-f3f5-436f-989a-be7faecddfb6.jpg)](https://open.mirego.com)
+![](https://github.com/mirego/.github/assets/11348/cf12218e-d02a-4658-a946-3c717152d1bb)
 
 At [**Mirego**](https://www.mirego.com), we build a huge majority of our products using open source technologies (eg. [React](https://github.com/facebook/react), [Elixir](https://github.com/elixir-lang/elixir), [Swift](https://github.com/apple/swift), [Kotlin](https://github.com/JetBrains/kotlin), etc.) maintained by stable, mature and active communities.
 
